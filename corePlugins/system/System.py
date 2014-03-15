@@ -39,7 +39,7 @@ class SystemConfig(System):
                ('defaut_mt_select', ''),
                ('login_user', ''),
                ('login_password', ''),
-               ('port', 8085),
+               ('port', 8585),
                ('port_api', 8086),
                ('socket_host', '0.0.0.0'),
                ('https', False),
